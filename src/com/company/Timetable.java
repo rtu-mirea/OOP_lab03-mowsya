@@ -9,17 +9,25 @@ import java.io.FileWriter;*/
 public class Timetable {
     static ArrayList<Professor> users = new ArrayList<>();
     static ArrayList<Request> requests = new ArrayList<>();
+<<<<<<< HEAD
     static Pairs[][] pairs = new Pairs[6][6];
+=======
+    static ArrayList<ArrayList<Pair>> pairs = new ArrayList<ArrayList<Pair>>();
+    static int[][] vacRooms = new int[6][6];
+>>>>>>> origin/master
     static Professor currentUser;
     int rooms, groups;
 
     public static void main(String[] args) {
         Timetable tt = new Timetable();
+<<<<<<< HEAD
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
                 pairs[i][j] = new Pairs();
             }
         }
+=======
+>>>>>>> origin/master
         int opt = -1;
         while (opt != 0) {
             opt = -1;
@@ -59,15 +67,24 @@ public class Timetable {
                                     tt.addRequest(disc, group, pairs);
                                     continue;
                                 case 2:
+<<<<<<< HEAD
                                     tt.printPairs(currentUser);
                                 case 0:
+=======
+
+                                case 0:
+                                    opt = -1;
+>>>>>>> origin/master
                                     break;
                                 default:
                                     System.out.println("Ошибка, повторите ввод");
 
                             }
                         }
+<<<<<<< HEAD
                         opt = -1;
+=======
+>>>>>>> origin/master
                     }
                     continue;
                 case 2:
@@ -94,7 +111,10 @@ public class Timetable {
                             System.out.println("Здравствуйте, администратор!");
                             System.out.println("1. Указать количество аудиторий");
                             System.out.println("2. Указать количество групп");
+<<<<<<< HEAD
                             System.out.println("3. Сгенерировать расписание");
+=======
+>>>>>>> origin/master
                             System.out.println("0. Выход в главное меню");
                             Scanner in4 = new Scanner(System.in);
                             opt = in4.nextInt();
@@ -111,9 +131,12 @@ public class Timetable {
                                     int groups = in6.nextInt();
                                     tt.setGroups(groups);
                                     continue;
+<<<<<<< HEAD
                                 case 3:
                                     tt.processRequests();
                                     System.out.println("Расписание составлено!");
+=======
+>>>>>>> origin/master
                                 case 0:
                                     break;
 
@@ -134,6 +157,7 @@ public class Timetable {
     }
 
     boolean logUser() {
+<<<<<<< HEAD
         System.out.println("Введите логин:");
         Scanner in = new Scanner(System.in);
         String login = in.nextLine();
@@ -146,6 +170,23 @@ public class Timetable {
 
     void addUser(String name, String login, String password) {
         if (findUser(login, password) != null) {
+=======
+        System.out.println("Введите логин и пароль:");
+        Scanner in = new Scanner(System.in);
+        String login = in.nextLine();
+        Scanner in1 = new Scanner(System.in);
+        String password = in1.nextLine();
+        currentUser = findUser(login, password);
+        if (currentUser == null) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    void addUser(String name, String login, String password) {
+        if(findUser(login, password) != null){
+>>>>>>> origin/master
             System.out.println("Пользователь уже зарегистрирован");
             return;
         }
@@ -154,6 +195,7 @@ public class Timetable {
     }
 
     void addRequest(String disc, int group, int pairs) {
+<<<<<<< HEAD
         Request r = new Request(currentUser, disc, group, pairs);
         requests.add(r);
     }
@@ -178,10 +220,31 @@ public class Timetable {
                         }
 
 
+=======
+        Request r = new Request((Professor) currentUser, disc, group, pairs);
+        requests.add(r);
+    }
+
+    /*void processRequests() {
+        for(Request r : requests) {
+            if (pairs.size() == 36) {
+                System.out.println("Расписание заполнено!");
+                return;
+            }
+            for (int i = 0; i < pairs.size(); i++) {
+                if(pairs.get(i).isEmpty()){
+                    pairs.get(i).add(new Pair(r.))
+                }
+                for (int j = 0; j < 6; j++) {
+                    if
+                    if(r.getDiscipline().equals(j.getDisc()) || r.getGroup() == j.getGroup() || r.getRequester().equals(j.getProf())){
+                        j = new Pair(i,)
+>>>>>>> origin/master
                     }
                 }
             }
         }
+<<<<<<< HEAD
     }
 
     void printPairs(Professor user) {
@@ -192,6 +255,9 @@ public class Timetable {
             }
         }
     }
+=======
+    }*/
+>>>>>>> origin/master
 
     Professor findUser(String login, String password) {
         for (Professor i : users) {
@@ -204,9 +270,48 @@ public class Timetable {
 
     void setRooms(int rooms) {
         this.rooms = rooms;
+<<<<<<< HEAD
+=======
+        for(int i = 0; i < vacRooms.length; i++){
+            for(int j = 0; j < vacRooms[i].length; j++){
+                vacRooms[i][j] = rooms;
+            }
+        }
+>>>>>>> origin/master
     }
 
     void setGroups(int groups) {
         this.groups = groups;
     }
+<<<<<<< HEAD
+=======
+
+   /* void save() {
+        FileWriter writer = null;
+        try {
+            writer = new FileWriter("users.txt");
+        } catch (IOException e) {
+        }
+        for (User i : users) {
+            String name = i.getName();
+            String login = i.getLogin();
+            String password = i.getPassword();
+            try {
+                writer.write(name + " " + login + " " + password + System.getProperty("line.separator"));
+            } catch (IOException e) {
+            }
+
+        }
+        try {
+            writer.close();
+        } catch (IOException e) {
+
+        }
+    }
+
+    void load() {
+
+    }*/
+
+>>>>>>> origin/master
 }
