@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< .merge_file_a06196
     <list default="true" id="3e48f09c-c582-45d9-9027-1685c74fa317" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="3e48f09c-c582-45d9-9027-1685c74fa317" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="3e48f09c-c582-45d9-9027-1685c74fa317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Timetable.java" afterDir="false" />
+    </list>
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -34,21 +46,75 @@
                 <element signature="e#502#503#0" expanded="true" />
                 <element signature="e#537#538#0" expanded="true" />
                 <element signature="e#573#574#0" expanded="true" />
+<<<<<<< .merge_file_a06196
+=======
+=======
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Timetable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="164" column="50" lean-forward="true" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
+              <folding>
+                <element signature="e#340#357#0" expanded="true" />
+                <element signature="e#7828#7829#0" expanded="true" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/company/Professor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+<<<<<<< .merge_file_a06196
+=======
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/company/Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding>
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+              </folding>
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/company/Pairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="691">
@@ -57,6 +123,12 @@
                 <element signature="e#760#761#0" expanded="true" />
                 <element signature="e#945#946#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/company/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -64,8 +136,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Request.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a06196
             <state relative-caret-position="442">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="442">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+=======
+            <state relative-caret-position="289">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
             </state>
           </provider>
         </entry>
@@ -85,8 +167,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/company/Pairs.java" />
         <option value="$PROJECT_DIR$/src/com/company/User.java" />
+<<<<<<< .merge_file_a06196
+=======
+=======
+        <option value="$PROJECT_DIR$/src/com/company/Pair.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Request.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Professor.java" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
         <option value="$PROJECT_DIR$/src/com/company/Timetable.java" />
       </list>
     </option>
@@ -106,7 +197,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> origin/master
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,17 +223,29 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> origin/master
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< .merge_file_a06196
+=======
+<<<<<<< HEAD
+>>>>>>> .merge_file_a03676
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573147602505" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572463109498" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> origin/master
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -194,12 +300,28 @@
       <workItem from="1572353434702" duration="9768000" />
       <workItem from="1572426595630" duration="1366000" />
       <workItem from="1572435968496" duration="996000" />
+<<<<<<< .merge_file_a06196
       <workItem from="1573144254739" duration="1903000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1573144254739" duration="1903000" />
+=======
+      <workItem from="1572449374363" duration="13359000" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< .merge_file_a06196
     <option name="totallyTimeSpent" value="6801000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="6801000" />
+=======
+    <option name="totallyTimeSpent" value="13359000" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,6 +336,10 @@
     <frame x="-8" y="-8" width="1864" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< .merge_file_a06196
+=======
+<<<<<<< HEAD
+>>>>>>> .merge_file_a03676
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11363637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -243,6 +369,37 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+=======
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11141907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2825485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" weight="0.32982263" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> origin/master
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +439,7 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/Pair.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -294,11 +452,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+=======
+    <entry file="uml://JAVA/com.company.Pair">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.Pair</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.company.Pair</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-402.5" y="-83.0" />
+          <SelectedNodes>
+            <node>com.company.Pair</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .merge_file_a06196
+    <entry file="file://$PROJECT_DIR$/src/com/company/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="uml://JAVA/com.company">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company</OriginalElement>
+          <nodes>
+            <node x="" y="">com.company.Request</node>
+            <node x="" y="">com.company.Pair</node>
+            <node x="" y="">com.company.User</node>
+            <node x="" y="">com.company.Timetable</node>
+            <node x="" y="">com.company.Professor</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="118.0" y="128.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/User.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+>>>>>>> .merge_file_a03676
         <state relative-caret-position="51">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
           <folding>
@@ -307,13 +519,20 @@
             <element signature="e#537#538#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Professor.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="68">
           <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+<<<<<<< .merge_file_a06196
+=======
         </state>
       </provider>
     </entry>
@@ -324,10 +543,44 @@
           <folding>
             <element signature="e#760#761#0" expanded="true" />
             <element signature="e#945#946#0" expanded="true" />
+=======
+        <state relative-caret-position="51">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+>>>>>>> .merge_file_a03676
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .merge_file_a06196
+        <state relative-caret-position="691">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+=======
+        <state relative-caret-position="697">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/Request.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -343,10 +596,23 @@
             <element signature="imports" expanded="true" />
             <element signature="e#8493#8494#0" expanded="true" />
             <element signature="e#8563#8564#0" expanded="true" />
+<<<<<<< .merge_file_a06196
+=======
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/Timetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="164" column="50" lean-forward="true" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
+          <folding>
+            <element signature="e#340#357#0" expanded="true" />
+            <element signature="e#7828#7829#0" expanded="true" />
+>>>>>>> origin/master
+>>>>>>> .merge_file_a03676
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
   </component>
   <component name="masterDetails">
     <states>
@@ -422,5 +688,7 @@
         </settings>
       </state>
     </states>
+=======
+>>>>>>> origin/master
   </component>
 </project>
